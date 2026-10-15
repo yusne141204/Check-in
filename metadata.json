@@ -1,0 +1,6 @@
+{
+  "name": "DayFlow Planner",
+  "description": "Daily calendar planner with interactive check-ins, post-task completion timer, stopwatch, and countdown clock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
